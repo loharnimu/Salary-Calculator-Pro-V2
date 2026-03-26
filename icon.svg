@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#2563eb"/>
+  <rect x="112" y="96" width="288" height="96" rx="24" fill="#e2e8f0"/>
+  
+  <rect x="112" y="240" width="64" height="64" rx="16" fill="#60a5fa"/>
+  <rect x="224" y="240" width="64" height="64" rx="16" fill="#60a5fa"/>
+  <rect x="336" y="240" width="64" height="64" rx="16" fill="#f59e0b"/>
+  
+  <rect x="112" y="336" width="64" height="64" rx="16" fill="#60a5fa"/>
+  <rect x="224" y="336" width="64" height="64" rx="16" fill="#60a5fa"/>
+  <rect x="336" y="336" width="64" height="64" rx="16" fill="#f59e0b"/>
+  
+  <text x="144" y="282" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle">7</text>
+  <text x="256" y="282" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle">8</text>
+  <text x="368" y="282" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle">+</text>
+  
+  <text x="144" y="378" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle">4</text>
+  <text x="256" y="378" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle">5</text>
+  <text x="368" y="378" font-family="sans-serif" font-size="32" font-weight="bold" fill="#ffffff" text-anchor="middle">=</text>
+</svg>
